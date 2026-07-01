@@ -11,14 +11,6 @@ This report presents a data-driven analysis of the global hospitality market usi
 
 ---
 
-## 📊 Dashboard Visual Preview
-
-Below is a snapshot of the interactive dashboard developed for this analysis:
-
-![Hotel Reservation Analytics Dashboard](dashboard_screenshot.png)
-
----
-
 ## 1. Introduction
 In the hospitality industry, managing room inventory, anticipating guest volume, and optimizing distribution channels are critical factors for profitability. This project utilizes data visualization to analyze reservation trends, geographical distributions, and customer booking traits to help hotel managers make strategic choices regarding pricing, marketing, and staffing.
 
