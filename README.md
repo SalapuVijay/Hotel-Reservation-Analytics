@@ -47,7 +47,24 @@ A detailed data table mapping tourist counts by country and city combinations (e
 ## 🗂️ Project Repository Contents
 
 - 📊 **`Hotel Reservation Analytics Dashboard.pbix`**: The primary Power BI dashboard file containing datasets, visual designs, and filters.
+- 💾 **`hotel_bookings.csv`**: The raw dataset containing 10,000 reservation rows, detailing guest stays, room types, distribution channels, and booking cancellation statuses.
 - 📝 **`README.md`**: Project overview, live links, and metric analysis.
+
+---
+
+## 💾 Dataset Columns Breakdown
+
+| Column | Description |
+|---|---|
+| `Tourist_Country` | Origin country of the traveler |
+| `Cities` | Destination city of the traveler |
+| `Adults` / `Children` | Demographics of registered guests |
+| `is_canceled` | Cancellation status (0 for active, 1 for canceled) |
+| `Lead_time` | Days between booking and arrival |
+| `Total_Stay_Days` | Combined stay length (weekend & week nights) |
+| `Market_segment` / `Distribution_channel` | Segment classifications (Direct, Corporate, TA/TO) |
+| `Room Class` / `Room Cost` | Assigned room classes and cost per night |
+| `Overall Cost` | Total booking valuation including meal choices |
 
 ---
 
